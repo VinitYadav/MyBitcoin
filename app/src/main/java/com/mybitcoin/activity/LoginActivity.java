@@ -1,10 +1,11 @@
-package com.mybitcoin;
+package com.mybitcoin.activity;
 
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.mybitcoin.R;
 import com.mybitcoin.databinding.ActivityLoginBinding;
 
 public class LoginActivity extends AppCompatActivity {

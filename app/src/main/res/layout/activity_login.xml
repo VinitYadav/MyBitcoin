@@ -5,7 +5,7 @@
 
         <variable
             name="activity"
-            type="com.mybitcoin.LoginActivity"/>
+            type="com.mybitcoin.activity.LoginActivity"/>
     </data>
 
     <LinearLayout

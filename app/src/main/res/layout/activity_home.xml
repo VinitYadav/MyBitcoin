@@ -5,7 +5,7 @@
 
         <variable
             name="activity"
-            type="com.mybitcoin.HomeActivity"/>
+            type="com.mybitcoin.activity.HomeActivity"/>
     </data>
 
     <LinearLayout
@@ -15,7 +15,7 @@
         android:layout_height="match_parent"
         android:background="@color/white"
         android:orientation="vertical"
-        tools:context="com.mybitcoin.CreateWalletActivity">
+        tools:context="com.mybitcoin.activity.CreateWalletActivity">
 
     </LinearLayout>
 </layout>

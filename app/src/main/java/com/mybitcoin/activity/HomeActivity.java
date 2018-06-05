@@ -1,9 +1,10 @@
-package com.mybitcoin;
+package com.mybitcoin.activity;
 
 import android.databinding.DataBindingUtil;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.mybitcoin.R;
 import com.mybitcoin.databinding.ActivityHomeBinding;
 
 public class HomeActivity extends AppCompatActivity {
