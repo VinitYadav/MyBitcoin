@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBitcoin</string>
+
+    <!--Login screen-->
+    <string name="create_wallet"><u>Create Wallet?</u></string>
+    <!--Login screen-->
+
+    <!--Create wallet-->
+    <string name="terms_privacy"><u>I agree terms &amp; privacy policy</u></string>
+    <!--Create wallet-->
+</resources>
