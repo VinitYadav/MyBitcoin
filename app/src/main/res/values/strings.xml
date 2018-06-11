@@ -1,11 +1,17 @@
 <resources>
     <string name="app_name">MyBitcoin</string>
 
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
     <!--Login screen-->
     <string name="create_wallet"><u>Create Wallet?</u></string>
     <!--Login screen-->
 
     <!--Create wallet-->
     <string name="terms_privacy"><u>I agree terms &amp; privacy policy</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <!--Create wallet-->
 </resources>
