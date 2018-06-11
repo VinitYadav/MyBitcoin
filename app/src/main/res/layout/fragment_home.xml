@@ -65,8 +65,17 @@
                     android:textSize="18dp"
                     android:textStyle="bold"/>
 
+                <com.anychart.anychart.AnyChartView
+                    android:id="@+id/chartView"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:visibility="gone"
+                    />
 
-
+                <com.jjoe64.graphview.GraphView
+                    android:id="@+id/graph"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dip"/>
 
                 <LinearLayout
                     android:layout_width="match_parent"
