@@ -5,4 +5,5 @@
     <color name="colorAccent">#ffffff</color>
     <color name="white">#ffffff</color>
     <color name="text_gray">#6b6b6b</color>
+    <color name="transparent_dialog">#603b7e76</color>
 </resources>

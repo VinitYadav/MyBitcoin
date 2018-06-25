@@ -10,8 +10,10 @@
 
     <!--Create wallet-->
     <string name="terms_privacy"><u>I agree terms &amp; privacy policy</u></string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <!--Create wallet-->
+
+    <string name="something_wrong">Something went wrong</string>
+    <string name="server_not_respond">Server not responding</string>
+
+
 </resources>
